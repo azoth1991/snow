@@ -1,6 +1,3 @@
-/**
- * Created by wwtliu on 14/8/11.
- */
 var canvas;
 var stage;
 var img = new Image();
